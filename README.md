@@ -1,2 +1,2 @@
 # html-css
-just a website
+A website created with just html and css
